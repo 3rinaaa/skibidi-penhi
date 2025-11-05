@@ -1,0 +1,16 @@
+- about page
+- snow
+- nice background
+
+
+- music
+- moving gif
+- sparkles button
+
+
+- nav bar
+- nav bar hover animation
+
+
+- leader page with pictures and quotes
+- favicon
